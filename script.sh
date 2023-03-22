@@ -6,6 +6,9 @@ res=$((a+b))
 
 echo "Result: $res"
 
+str=$3
+echo "$str"
+
 dir=`uname -a
 
 string="Practical tasks: $dir"
